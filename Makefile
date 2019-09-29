@@ -1,3 +1,3 @@
 thesis:
 	git submodule update --init strowes_template
-	pdflatex thesis.tex
+	pdflatex -recorder thesis.tex
