@@ -1,0 +1,3 @@
+[submodule "strowes_template"]
+	path = strowes_template
+	url = git@github.com:sdstrowes/Glasgow-Thesis-Template.git

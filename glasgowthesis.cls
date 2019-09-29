@@ -1,0 +1,1 @@
+strowes_template/glasgowthesis.cls
