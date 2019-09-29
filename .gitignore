@@ -21,3 +21,6 @@
 *.mtc1
 *.out
 *.pdf
+auto/
+*.fdb_latexmk
+*.fls
