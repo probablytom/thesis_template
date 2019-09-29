@@ -41,7 +41,9 @@ by hand on a unix machine: just run `pdflatex thesis.tex` (or your equivalent la
 choice).
 
 If you're compiling by hand on a unix machine, just clone this repo and begin
-writing! Better yet, fork it so you can manage your writing in your own repo.
+writing! Better yet, fork it so you can manage your writing in your own repo. *NOTE* that at least
+the first time you compile, you'll want to use the makefile so that Stephen Strowes' template
+is present. Just run `make` and you'll be fine.
 
 Things get hairier on Windows (I believe) or if you don't compile your latex by
 hand (many people). If you're on Windows, I'm sorry, but the package
